@@ -4,4 +4,4 @@
 - Desenvolvido em sala de aula
 - Avaliação da matéria de UDI (Usabilidade e Desing de Interação) com o professor Lelê
 
-Vizualiar projeto [AQUI!](https://gferri-projects.github.io/Atividade-UDI-BrainStorm/)
+Vizualizar projeto [AQUI!](https://gferri-projects.github.io/Atividade-UDI-BrainStorm/)
